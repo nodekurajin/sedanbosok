@@ -1,6 +1,6 @@
 {
   "name": "sedanbosok",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "- Jadi berani ngebengkel - Bahan pelajaran kalo beli mobil tua - Lebih berhati-hati - Bisa lain-lain",
   "main": "index.js",
   "dependencies": {
